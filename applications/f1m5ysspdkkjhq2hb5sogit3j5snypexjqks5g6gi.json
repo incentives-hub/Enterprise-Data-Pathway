@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "ID": "f1m5ysspdkkjhq2hb5sogit3j5snypexjqks5g6gi",
+  "Issue Number": "8",
+  "Client": {
+    "Name": "Fogmeta Labs",
+    "Region": "China",
+    "Industry": "Web3 / Crypto",
+    "Website": "https://fogmetalabs.com/metaark",
+    "Social Media": "FogMeta",
+    "Social Media Type": "Twitter",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Project Id": "1968",
+    "Brief history of your project and organization": "The research of Fogmeta Labs spans multiple levels from system technology, infrastructure, and middleware to services and solutions, and involves future systems, network technology and business, distributed systems and management, information management, and interactive and innovative services. Based on the views on and practices in the industry, Fogmeta also solves the problem of business complexity through operations optimization and other technologies.\r\n\r\nMeta Ark is a data onboarding service provided by Fogmeta Labs for helping clients store their corporate datasets onto IPFS/Filecoin. Please refer to: https://fogmetalabs.com/metaark.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "These are private corporate datasets owned by our Meta Ark clients. Meta Ark is a data onboarding service provided by Fogmeta Labs for helping clients store their corporate datasets onto IPFS/Filecoin. Please refer to: https://fogmetalabs.com/metaark.",
+    "Where was the data currently stored in this dataset sourced from": "Other",
+    "How do you plan to prepare the dataset": "We're going to use the `go-mc-sdk` to prepare the datasets. https://github.com/FogMeta/go-mc-sdk",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "We apologize, but due to confidentiality reasons, we are unable to disclose or share the private data here.",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "2 to 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, Africa, North America, South America, Europe, Australia (continent), Antarctica",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, IPFS, Shipping hard drives, Others",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "The storage providers we'd like to work with are presented below. Some of them are from the FilSwan Platform.\r\nf03624\r\nf010088\r\nf02301\r\nf08399\r\nf02401\r\nf0187709\r\nf01163272\r\nf01402814\r\nf01072221\r\nf0240185\r\nf0143858\r\nf01390330\r\nf01225882\r\nf0717969\r\nf03223\r\nf01395673\r\nf01786736\r\nf0836160\r\nf032824\r\nf01443744\r\nf01871352\r\nf01907556\r\nf01946551\r\nf02012951\r\nf01970630",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "4PiB",
+    "Single Size Dataset": "1PiB",
+    "Replicas": 4,
+    "Weekly Allocation": "1TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-03-26 07:02:37.122991575 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1m5ysspdkkjhq2hb5sogit3j5snypexjqks5g6gi",
+    "Multisig Address": "true"
+  },
+  "Allocation Requests": []
+}
