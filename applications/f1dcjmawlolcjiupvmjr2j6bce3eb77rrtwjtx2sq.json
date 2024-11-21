@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "ID": "f1dcjmawlolcjiupvmjr2j6bce3eb77rrtwjtx2sq",
+  "Issue Number": "16",
+  "Client": {
+    "Name": "Rebel Iron",
+    "Region": "United States",
+    "Industry": "IT & Technology Services",
+    "Website": "https://rebeliron.com/",
+    "Social Media": "Trevor K Smith",
+    "Social Media Type": "Slack",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Project Id": "2442",
+    "Brief history of your project and organization": "At Rebel Iron, we focus on providing managed infrastructure that's ideal for AI and Web3 applications. We pride ourselves on delivering solutions that are decentralized, secure, and efficient, meeting the needs of institutions and enterprises worldwide. Our expertise lies in leveraging cutting-edge technology to support demanding AI workloads, making us adept at handling large-scale data storage projects on platforms like Filecoin.",
+    "Is this project associated with other projects/ecosystem stakeholders?": "Yes",
+    "Describe the data being stored onto Filecoin": "The data we're storing has been carefully scraped from the internet, focusing on specific topics that our clients are interested in for AI training. Typically includes scrapped data from Reddit, Wiki, and google search results.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "Global Stake\r\n\r\nhttps://singularity.storage/\r\n\r\nHave used in past for data preparation.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://i.imgur.com/pTxJvoi.png\r\n\r\nThe above is an areal photo of a house, which is being used on a internal client project for developing real estate AI tools.",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "Permanently",
+    "In which geographies do you plan on making storage deals": "North America",
+    "How will you be distributing your data to storage providers": "Cloud storage (i.e. S3), HTTP or FTP server",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "This list is not finalized yet and will be updated when available.",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "25PiB",
+    "Single Size Dataset": "5PiB",
+    "Replicas": 5,
+    "Weekly Allocation": "1000TiB"
+  },
+  "Lifecycle": {
+    "State": "Submitted",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-04-08 14:43:51.073991062 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1dcjmawlolcjiupvmjr2j6bce3eb77rrtwjtx2sq",
+    "Multisig Address": "false"
+  },
+  "Allocation Requests": []
+}
