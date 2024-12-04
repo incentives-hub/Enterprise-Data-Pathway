@@ -1,0 +1,49 @@
+{
+  "Version": "1.3",
+  "ID": "f1frdtz3yfldiqjwmpyu4kimgenol6tr26vfgvgrq",
+  "Issue Number": "84",
+  "Client": {
+    "Name": "深圳蒂爵Jewelry Co., Ltd.",
+    "Region": "China",
+    "Industry": "Other",
+    "Website": "https://www.derier.com.cn/",
+    "Social Media": "蒂爵珠宝Derier",
+    "Social Media Type": "WeChat",
+    "Role": "Data Preparer"
+  },
+  "Project": {
+    "Brief history of your project and organization": "深圳蒂爵Jewelry Co., Ltd. was formerly known as 深圳蒂爵 Technology Co., Ltd.\r\n, the company was established in 2001 and is mainly engaged in jewelry design, processing, manufacturing, trade and sales, etc. There are dozens of large jewelry sales stores in China alone. Due to the historical comparison of operating time, a large amount of data is generated, including design materials, operational data, store monitoring, etc.....",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "It mainly stores the company's design materials, surveillance videos, promotional materials and other content. Since the company was hacked, the control server was ransomed in BTC. The person in charge of the company contacted me and asked me to help him complete the backup on filecoin. I contacted several SPs who were willing to help the company store data for free.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "I will encrypt the data, then use a script to package it into a car file and provide it to the SP through hard drive transportation. We will issue orders through boost.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "Promotional pictures and videos of DERIER jewelry products:\r\nhttps://drive.google.com/drive/folders/1jk1ymtNcYRhwRK-_yKe67j1f1Bw13T2o\r\nhttps://drive.google.com/drive/folders/1BMVSL0iOseVxbzUDEUT6zW2Z2_3q_Zhi\r\nhttps://drive.google.com/drive/folders/1NsPWVUdtTEHyP1-iErS0DzWDNvjOGoJz\r\n\r\nHonors received by DERIER: https://drive.google.com/drive/folders/1iwZmLFcD8nCqazwHGfWuI59x3KFr0oOq\r\n\r\nDERIER designer's design draft and production pictures:\r\nhttps://drive.google.com/drive/folders/1qtHHl4ffvMKxEGymFMO4fbHCbnFJ3gjn\r\n\r\nCelebrities and models endorse DERIER:\r\nhttps://drive.google.com/drive/folders/16Xq2stfWDQgmJaQpP0w8iidNW6MDLNUP\r\nhttps://drive.google.com/drive/folders/1kAcDT0X_sDFneEnzuU4XLyjtUX9aI31B\r\n\r\nPropaganda articles of DERIER:\r\nhttps://drive.google.com/drive/folders/1qD1CLfvUz6huXXNL_kGwHk56VPHwHw4K\r\n\r\nData from DERIER Business School:\r\nhttps://drive.google.com/drive/folders/1iRLzp8rmXIUyM4eUvyyG0ZKkgksnLa-R?usp=sharing\r\n\r\nReal picture of DERIER store:\r\nhttps://drive.google.com/drive/folders/1OLaC7-d4gTRyLe4Do2mbZwlrMBbW8wmV\r\n\r\nActivities held by DERIER:\r\nhttps://drive.google.com/drive/folders/1F6PpaeEwrmLzQGTTEMW3LKPfb0oep14m\r\n\r\n9、TV plays and movies sponsored by DERIER:\r\nhttps://drive.google.com/drive/folders/1o0HX9uZOD1wRYaVOvHumBs0KWlXbjKJK\r\n\r\n\r\n\r\n\r\n10.https://drive.google.com/file/d/13CwZnaumnCNp0mD6z4FjlIOUlD_TNOuR/view?usp=drive_link\r\n\r\n\r\nData size proof.：https://drive.google.com/drive/folders/1YEDLJmJr3FWbAWqxPvOUxi0z67Yp14jY?usp=sharing",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[ ] I confirm",
+    "What is the expected retrieval frequency for this data": "Sporadic",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "Chengdu f03216485,\r\nShenzhen f01660795,\r\nShandong Qingdao f01025366\r\nGuangdong Shenzhen f03157905\r\nHong Kong f03220176\r\n Singapore f03220172\r\nSichuan Ya'an f03260592 (new)\r\n Sichuan Ziyang f02035256",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "32PiB",
+    "Single Size Dataset": "4.5PiB",
+    "Replicas": 7,
+    "Weekly Allocation": "1000TiB"
+  },
+  "Lifecycle": {
+    "State": "KYCRequested",
+    "Validated At": "",
+    "Validated By": "",
+    "Active": true,
+    "Updated At": "2024-12-04 14:20:54.125930587 UTC",
+    "Active Request ID": "",
+    "On Chain Address": "f1frdtz3yfldiqjwmpyu4kimgenol6tr26vfgvgrq",
+    "Multisig Address": "false",
+    "edited": false
+  },
+  "Allocation Requests": []
+}
